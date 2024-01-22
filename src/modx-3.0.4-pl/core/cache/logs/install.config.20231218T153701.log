@@ -1,0 +1,2 @@
+[2023-12-18 15:37:02] (ERROR @ /var/www/html/modx-3.0.4-pl/core/cache/setup/smarty/3f85ae1bea307d06e0c3be54b9942ae62584d530_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2023-12-18 15:37:02] (ERROR @ /var/www/html/modx-3.0.4-pl/core/cache/setup/smarty/3f85ae1bea307d06e0c3be54b9942ae62584d530_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null

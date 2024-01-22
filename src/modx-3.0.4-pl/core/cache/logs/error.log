@@ -1,0 +1,176 @@
+[2023-12-18 16:07:05] (ERROR @ /var/www/html/modx-3.0.4-pl/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/740/translit-1.0.0-beta.transport.zip?revolution_version=Revolution-3.0.4-pl
+[2023-12-18 16:07:05] (ERROR @ /var/www/html/modx-3.0.4-pl/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2023-12-18 20:39:13] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:41:43] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:43:12] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:45:02] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:45:32] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:46:43] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:48:03] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 2 )' at line 1
+)
+
+[2023-12-18 20:53:13] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 2 )' at line 1
+)
+
+[2023-12-18 20:53:22] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:54:15] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:54:18] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:54:25] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 20:56:20] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 20:56:47] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 20:56:56] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:57:54] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:58:22] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 ORDER BY id ASC LIMIT 20' at line 1
+)
+
+[2023-12-18 20:58:33] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 21:02:55] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 21:03:38] (ERROR @ /var/www/html/modx-3.0.4-pl/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1 AND `modResource`.`id` = 3 )' at line 1
+)
+
+[2023-12-18 21:09:23] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 61) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:09:23] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 62) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:09:33] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 61) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:09:33] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 62) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:11:30] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 62) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:11:30] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 63) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:11:55] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 62) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:11:55] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 63) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:17:53] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 65) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:17:53] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 66) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:21:03] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 53) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:21:03] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/Items.php : 54) PHP warning: Undefined property: restControllerItems::$parent
+[2023-12-18 21:26:07] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/News.php : 61) PHP warning: Undefined property: restControllerNews::$parent
+[2023-12-18 21:26:07] (ERROR @ /var/www/html/modx-3.0.4-pl/rest/controllers/News.php : 62) PHP warning: Undefined property: restControllerNews::$parent

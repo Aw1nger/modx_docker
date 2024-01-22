@@ -1,0 +1,1 @@
+[2023-12-18 15:36:34] (ERROR @ /var/www/html/modx-3.0.4-pl/setup/includes/modinstallsettings.class.php : 164) PHP warning: fopen(/var/www/html/modx-3.0.4-pl/core/cache/setup/settings.cache.php): Failed to open stream: No such file or directory
